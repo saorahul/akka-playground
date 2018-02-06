@@ -1,2 +1,2 @@
 # akka-playground
-Repo for my akka projects
+Repo for my akka project
